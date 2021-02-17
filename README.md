@@ -11,7 +11,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Registro en la plataforma Google Earth Engine [GEE](https://signup.earthengine.google.com/) _
 
 ```
 Da un ejemplo
@@ -39,29 +39,16 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Copie y corra el link en su perfil de GEE_
+```
+Da un ejemplo
+```
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Todas las practicas estan construidas en JavaScript_
 
 * [GEE](https://earthengine.google.com/) - Plataforma de procesamiento web
 
@@ -69,10 +56,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Nicolás Mari** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Armando Rodriguez Montellano** - *Documentación* - [fulanitodetal](https://github.com/ArmandoRodriguez)
-* **María Isabel Cruz López** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* * **Alexander Ariza** - *Trabajo Inicial* - [Tema 5](https://github.com/Alexanderariza)
+* **Nicolás Mari** - *Unidad I* - [Introducción](#material)
+* **Armando Rodriguez Montellano** - *Unidad II, IV y V* - [Fundamentos, monitoreo y cartografía de área quemada](#material)
+* **María Isabel Cruz López** - *Unidad III* - [Peligro y riesgo de Incendios](#material)
+* **Fabiano Morelli** - *Unidad III* - [Peligro y riesgo de Incendios](#material)
+* **Alexander Ariza** - *Unidad V* - [Cartografía de área quemada y severidad](#material)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
