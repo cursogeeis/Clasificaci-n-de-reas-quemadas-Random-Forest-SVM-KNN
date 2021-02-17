@@ -1,0 +1,1 @@
+# Clasificaci-n-de-reas-quemadas-Random-Forest-SVM-KNN
