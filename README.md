@@ -94,5 +94,4 @@ Este proyecto está bajo la Licencia (AGPL v3) - mira el archivo [LICENSE.md](LI
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+
